@@ -1,5 +1,7 @@
 # README
 
+We'll have a Rails API to support a React frontend application, and we'll be focusing on how that client-server communication process works.
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
